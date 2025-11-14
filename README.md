@@ -1,6 +1,11 @@
 # 🎓 PROJETO DE MACHINE LEARNING: PREVISÃO DE DESEMPENHO ACADÊMICO
 
 ## Descrição do Projeto
+Alunos:
+Guilherme Campos Lima
+Rhwan Guilherme Ferreira dos Torres
+Pedro Luiz Duque Barbosa
+Davi Lins de Araújo Melo
 
 Este repositório contém o projeto de Machine Learning focado na previsão do desempenho de alunos em avaliações (`Pontuacao_Prova_Final`). O trabalho está dividido em Semanas, conforme o cronograma da disciplina.
 
