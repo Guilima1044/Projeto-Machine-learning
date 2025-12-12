@@ -13,6 +13,7 @@ Este repositório contém o projeto de Machine Learning (Regressão) focado na p
 * Rhwan Guilherme Ferreira dos Torres
 * Pedro Luiz Duque Barbosa
 * Davi Lins de Araújo Melo
+* Isaac oliveira
 
 ---
 
